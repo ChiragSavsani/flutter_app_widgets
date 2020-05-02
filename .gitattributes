@@ -6,3 +6,4 @@
 android/* linguist-vendored
 build/* linguist-vendored
 ios/* linguist-vendored
+.dart_tool/* linguist-vendored
